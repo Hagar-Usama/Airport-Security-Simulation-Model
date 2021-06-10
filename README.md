@@ -5,7 +5,7 @@ Airport Security Simulation model with simulink, performance evaluation course
 
 
 ## Todo 
-* [ ] build independent M/M/1 model
+* [x] build independent M/M/1 model
 * [ ] build independent M/M/m model
 * [ ] build zone A
 * [ ] build zone B1
