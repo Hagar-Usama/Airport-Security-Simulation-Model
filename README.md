@@ -1,6 +1,8 @@
 # Airport-Security-Simulation-Model
 Airport Security Simulation model with simulink, performance evaluation course
 
+> make sure - when installing matlab - it has simulink and simevent
+
 
 ## Todo 
 * [ ] build independent M/M/1 model
