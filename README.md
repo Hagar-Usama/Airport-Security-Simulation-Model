@@ -3,10 +3,13 @@ Airport Security Simulation model with simulink, performance evaluation course
 
 > make sure - when installing matlab - it has simulink and simevent
 
+> in simulink:
+    * Entity Generator: mean = arrival rate
+    * Server: mean = response time/job (not rate)
 
 ## Todo 
 * [x] build independent M/M/1 model
-* [ ] build independent M/M/m model
+* [x] build independent M/M/m model
 * [ ] build zone A
 * [ ] build zone B1
 * [ ] build zone B2
