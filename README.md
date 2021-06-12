@@ -16,14 +16,15 @@ Airport Security Simulation model with simulink, performance evaluation course
 * [x] build zone B3
 * [x] build zone C
 * [x] build zone D
-* [ ] check other requirements
-  * [ ] pre-check for trusted travelers
-  * [ ] passengers who do not carry luggage
-* [ ] add overall performance metrics
+* [x] check other requirements
+  * [x] pre-check for trusted travelers
+  * [x] passengers who do not carry luggage
+* [x] add overall performance metrics
  (heterogenious system)
   * [x] Resposnse Time
-  * [x] Waiting Time
-  * [ ] Throughput
-  * [ ] Utilization
+  * [x] Throughput
+* [x] add performance metrics for each subsystem
 * [x] Build Model with one unit of m
-* [ ] optimize estimates
+* [x]] optimize estimates
+* [x] report
+* [ ] presentation
