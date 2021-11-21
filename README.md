@@ -10,10 +10,21 @@ Airport Security Simulation model with simulink, performance evaluation course
 ## Todo 
 * [x] build independent M/M/1 model
 * [x] build independent M/M/m model
-* [ ] build zone A
-* [ ] build zone B1
-* [ ] build zone B2
-* [ ] build zone B3
-* [ ] build zone C
-* [ ] build zone D
-* [ ] check other requirements
+* [x] build zone A
+* [x] build zone B1
+* [x] build zone B2
+* [x] build zone B3
+* [x] build zone C
+* [x] build zone D
+* [x] check other requirements
+  * [x] pre-check for trusted travelers
+  * [x] passengers who do not carry luggage
+* [x] add overall performance metrics
+ (heterogenious system)
+  * [x] Resposnse Time
+  * [x] Throughput
+* [x] add performance metrics for each subsystem
+* [x] Build Model with one unit of m
+* [x]] optimize estimates
+* [x] report
+* [ ] presentation
